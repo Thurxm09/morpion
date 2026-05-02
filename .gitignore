@@ -4,7 +4,8 @@ __pycache__/
 *.pyo
 *.pyd
 *.pyc
-
+MDs/
+*agent.md
 # Environnement virtuel
 .venv/
 venv/
@@ -27,4 +28,3 @@ htmlcov/
 # Configurations prettier 
 .prettier*
 
-MDs/
